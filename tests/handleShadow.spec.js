@@ -38,7 +38,7 @@ test('get started link', async ({ page }) => {
 });
 
 
-test.skip('get started link', async ({ page }) => {
+test('get started link', async ({ page }) => {
   await page.goto('https://www.williams-sonoma.com/');
 
   // Click the get started link.
