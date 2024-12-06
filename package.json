@@ -1,0 +1,17 @@
+{
+  "name": "playwrightdom",
+  "version": "1.0.0",
+  "main": "handleShadow.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.47.0",
+    "playwrightdom": "file:"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  },
+  "description": ""
+}
