@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 
  test.describe.parallel
 ///hthidhsdsdsd djsdsdj
-test('get started link', async ({ page }) => {
+test('get started link william sonoma', async ({ page }) => {
   await page.goto('https://www.williams-sonoma.com/');
 
   // Click the get started link.
